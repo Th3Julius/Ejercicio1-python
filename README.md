@@ -1,3 +1,3 @@
-# Introduccion a las tegnologias de la informacion Python
+# Introduccion a las tegnologias de la informacion
 Junior Llerena
 Ejercicio Introduccion a Python
